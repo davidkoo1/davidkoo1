@@ -2,7 +2,7 @@
 
 Привет!
 
-https://github.com/davidkoo1/davidkoo1/blob/main/04c85387090917.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png
+![Иллюстрация к проекту](https://github.com/davidkoo1/davidkoo1/blob/main/04c85387090917.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png)
 
             Круто, что посетил мой GitHub и нашёл время взглянуть в репозитории...
 Если не смотрел, то переходи и рассматривай, или просто просканируй мой профиль ➡️➡️➡️
