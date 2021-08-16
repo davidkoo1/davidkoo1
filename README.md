@@ -17,9 +17,9 @@
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/-Leanguage-808080?style=for-the-badge&logo=C&logoColor=)
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=C%2b%2b&logoColor=)
-![.Net](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=.net&logoColor=white)
-![html5](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5&logoColor=red)
-![Pascal](https://img.shields.io/badge/abc-PASCAL-white?style=for-the-badge&labelColor=red)
+![.Net](https://img.shields.io/badge/-C%23/framework-090909?style=for-the-badge&logo=.net&logoColor=white)
+![Pascal](https://img.shields.io/badge/pascal-abc-pink?style=flat&&labelColor=green)
+![html5](https://img.shields.io/badge/-HTML-white?style=flat&logo=HTML5&logoColor=red)
 ![Git](https://img.shields.io/badge/-Git-yellow?style=flat&logo=Git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&?&logo=GitHub&logoColor=white)
 
