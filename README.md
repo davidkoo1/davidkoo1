@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Sasha :)    ![](https://komarev.com/ghpvc/?username=davidkoo1)
+![](https://komarev.com/ghpvc/?username=davidkoo1&color=green)
+## Hi there 👋, I'm Sasha :)
 
 <br />
 
@@ -27,15 +28,12 @@
 
 </h1>
 
-<h1 align="right">
+<details>
+    <summary>:zap: Statistics:</summary>
+    <img align="right" alt = "codeSTACKr's GitHub stats" src ="https://github-readme-stats.vercel.app/api?username=davidkoo1&show_icons=true&theme=radical" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkoo1&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-</h1>
+<img align="right" alt = "codeSTACKr's GitHub stats" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkoo1&layout=compact" />
 
-<h1 align="right">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkoo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</h1>
+</details>
