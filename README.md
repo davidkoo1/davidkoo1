@@ -8,6 +8,7 @@
 
 ## I'm a Junior programmer and I'm learning to solve problems
 <p>
+
 </p>
 
 ### Languages and Tools:
@@ -30,10 +31,11 @@
 
 <details>
     <summary>:zap: Statistics:</summary>
-    <img align="right" alt = "codeSTACKr's GitHub stats" src ="https://github-readme-stats.vercel.app/api?username=davidkoo1&show_icons=true&theme=radical" />
+    <img align="center" alt = "codeSTACKr's GitHub stats" src ="https://github-readme-stats.vercel.app/api?username=davidkoo1&show_icons=true&theme=radical" />
 
+<br>
 <br />
 
-<img align="right" alt = "codeSTACKr's GitHub stats" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkoo1&layout=compact" />
+<img align="center" alt = "codeSTACKr's GitHub stats" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=davidkoo1&layout=compact" />
 
 </details>
