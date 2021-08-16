@@ -16,13 +16,16 @@
 
 
 ###
+
+<h1 align="left">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkoo1&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+</h1>
 
-<h align="center">
+<h1 align="right">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkoo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</h>
+</h1>
