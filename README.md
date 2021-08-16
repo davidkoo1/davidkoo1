@@ -14,3 +14,15 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/alexander-david-494a2a1b2/)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-white?style=social&logo=CodeForces&logoColor=yellow)](https://codeforces.com/profile/adavid)
 
+
+###
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidkoo1&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+<h align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidkoo1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</h>
