@@ -13,62 +13,22 @@ I'm Alexander David, a Junior .NET Developer with a passion for solving problems
 - 🚀 I'm constantly working on pet-projects to improve my skills.
 - 💬 Languages: English (Medium), Russian (Native), Romanian (Spoken).
 
-### Projects Showcase
-
-Here are some of the projects that I've worked on related to ASP.NET MVC:
-
-1. **E-commerce Website (ASP.NET MVC)**:
-   - Description: Developed a fully functional e-commerce website with features like user registration, product catalog, shopping cart, and payment processing.
-   - GitHub Repository: [E-commerce Web](https://github.com/yourusername/ecommerce-web)
-
-2. **Blog Platform (ASP.NET MVC)**:
-   - Description: Built a blog platform where users can create, edit, and publish their articles with categories and comments.
-   - GitHub Repository: [Blog Platform](https://github.com/yourusername/blog-platform)
-
-3. **Inventory Management System (ASP.NET MVC)**:
-   - Description: Designed an inventory management system for tracking product stock, orders, and generating reports.
-   - GitHub Repository: [Inventory System](https://github.com/yourusername/inventory-system)
-
-### Contributions
-
-I actively contribute to open-source ASP.NET MVC projects and participate in discussions and issue tracking on GitHub. You can check out my contributions on my GitHub profile.
-
-### Certifications
-
-I have completed the following certifications relevant to ASP.NET MVC:
-
-- ASP.NET MVC Certification by [Certification Authority](https://example.com/certification)
-
-### Blog Articles
-
-I regularly write articles about ASP.NET MVC development on my [Blog](https://yourblog.com) to share my insights and experiences with the community.
-
-### Online Presence
-
-You can also find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Website/Blog](https://yourblog.com)
-
-Feel free to reach out to me if you have any questions or would like to discuss potential collaborations or job opportunities.
-
 ### Languages and Tools
 
 I'm proficient in the following languages and tools:
 
-- C#
+- C# and SQL
 - .NET Core
-- SOLID, OOP, GoF Design Patterns
-- LINQ, JSON
+- SOLID, OOP, GoF Design Patterns, DRY, KISS
+- LINQ, JSON, REST, SOAP
 - Entity Framework, ADO.NET, Dapper
 - WPF/WinForms
-- ASP.NET (MVC, MVVM, Web API)
+- ASP.NET (MVC, Web API)
 - MSSQL, MySQL, T-SQL
 - Git/GitHub
 - HTML/CSS
 - C/C++
-- Visual Studio Code
+- Visual Studio Code, Postman
 
 <details>
     <summary>:zap: GitHub Statistics</summary>
